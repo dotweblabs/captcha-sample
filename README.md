@@ -15,3 +15,9 @@ A sample of a pure Javascript (browser only) captcha
 </script>
 ```
 
+## Screenshot
+
+[![enter image description here][1]][1]
+
+
+  [1]: https://i.stack.imgur.com/HhW79.png
